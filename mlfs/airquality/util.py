@@ -278,7 +278,7 @@ def purge_project(proj):
 
     # Delete all Models
     delete_models(mr, "air_quality_xgboost_model")
-    delete_secrets(proj, "SENSOR_LOCATION_JSON")
+    delete_secrets(proj, "SENSOR1_LOCATION_JSON")
 
 def check_file_path(file_path):
     my_file = Path(file_path)
