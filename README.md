@@ -7,10 +7,6 @@ O'Reilly book - Building Machine Learning Systems with a feature store: batch, r
 
 [Dashboards for Example ML Systems]([https://featurestorebook.github.io/mlfs-book/](https://kkkkkkatherine01.github.io/air-quality-prediction/air-quality/))
 
-
-# Run Air Quality Tutorial
-
-See [tutorial instructions here](https://docs.google.com/document/d/1YXfM1_rpo1-jM-lYyb1HpbV9EJPN6i1u6h2rhdPduNE/edit?usp=sharing)
     
 # Create a conda or virtual environment for your project before you install the requirements
     pip install -r requirements.txt
